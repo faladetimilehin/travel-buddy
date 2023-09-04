@@ -52,7 +52,7 @@ Travel Buddy offers an array of features to enhance your trip planning experienc
 
 Using Travel Buddy is a breeze:
 
-1. Launch the [Travel Buddy App](https://faladetimilehin.github.io/Travel-Buddy/) in your web browser. 🌐
+1. Launch the [Travel Buddy App](https://faladetimilehin.github.io/travel-buddy/) in your web browser. 🌐
 2. Navigate through the various sections to explore the app's offerings.
 3. Fill out the form in the "Join" section to kickstart your travel journey.
 4. Access the latest weather forecast in the "Weather Forecast" section.
@@ -80,7 +80,7 @@ Experience the Travel Buddy's functionality:
 
 ## Deployment 🚀
 
-- Access Travel Buddy here: [Travel Buddy 🌐](https://faladetimilehin.github.io/Travel-Buddy/)
+- Access Travel Buddy here: [Travel Buddy 🌐](https://faladetimilehin.github.io/travel-buddy/)
 - Dive into the codebase on GitHub: [GitHub Repository 💻](https://github.com/faladetimilehin/travel-buddy.git)
 
 ## Quality and Excellence 🌟
